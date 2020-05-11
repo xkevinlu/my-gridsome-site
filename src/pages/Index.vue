@@ -1,13 +1,5 @@
 <template>
   <Layout>
-
-    <!-- Learn how to use images here: https://gridsome.org/docs/images -->
-
-    <h1>Hello, world!</h1>
-
-    <p>
-Kevin's first 
-    </p>
 <div>
     <b-card
       no-body
@@ -64,7 +56,4 @@ export default {
 </script>
 
 <style>
-.home-links a {
-  margin-right: 1rem;
-}
 </style>

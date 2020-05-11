@@ -1,16 +1,28 @@
 <template>
   <div class="layout">
-    <header class="header">
-      <strong>
-        <g-link to="/">{{ $static.metadata.siteName }}</g-link>
-      </strong>
-      <nav class="nav">
-        <g-link class="nav__link" to="/">Home</g-link>
-        <g-link class="nav__link" to="/about/">About</g-link>
-        <g-link class="nav__link" to="/archives/">Archives</g-link>
-      </nav>
-    </header>
-    <slot/>
+    <b-container>
+      <b-navbar class="cc-navbar" variant="faded" type="light">
+        <g-link to="/"><b-navbar-brand tag="h1" class="mb-0">Colors and Code</b-navbar-brand></g-link>
+
+        <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
+
+        <b-collapse id="nav-collapse" is-nav>
+          <!-- Right aligned nav items -->
+          <b-navbar-nav class="ml-auto">
+            <b-nav-item to="/about">About</b-nav-item>
+            <b-nav-item to="/archives">Archives</b-nav-item>
+          </b-navbar-nav>
+        </b-collapse>
+      </b-navbar>
+      <b-row class="justify-content-lg-center">
+        <b-col lg="8">
+          <slot />
+        </b-col>
+        <b-col lg="4">
+          <mcEmailForm></mcEmailForm>
+        </b-col>
+      </b-row>
+    </b-container>
   </div>
 </template>
 
@@ -22,7 +34,22 @@ query {
 }
 </static-query>
 
+<script>
+import mcEmailForm from '~/components/mc-email-form'
+export default {
+  components: {
+    mcEmailForm
+  }
+};
+</script>
+
 <style>
+@media screen and (min-width: 960px) {
+    html {
+        margin-left: calc(100vw - 100%);
+        margin-right: 0;
+    }
+}
 body {
   font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
   margin:0;
@@ -30,22 +57,14 @@ body {
   line-height: 1.5;
 }
 
-.layout {
-  max-width: 760px;
-  margin: 0 auto;
-  padding-left: 20px;
-  padding-right: 20px;
+h5 {
+  color:gray;
 }
 
-.header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 20px;
-  height: 80px;
-}
-
-.nav__link {
-  margin-left: 20px;
+.cc-navbar {
+  padding: 0!important;
+  border-bottom: 2px solid black;
+  margin-bottom:2em;
+  margin-top:2em;
 }
 </style>

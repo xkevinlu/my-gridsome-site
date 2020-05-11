@@ -13,6 +13,12 @@ module.exports = {
         typeName: 'BlogPost',
         path: './blog/**/*.md',
       }
+    },
+    {
+      use: '@gridsome/plugin-google-analytics',
+      options: {
+        id: 'UA-85741607-5'
+      }
     }
   ],
   templates: {

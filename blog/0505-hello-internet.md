@@ -1,7 +1,7 @@
 ---
 title: Hello Internet
 date: 2020-05-05
-author: Kevin Lu
+author: Kevin
 image: https://i.pinimg.com/originals/55/d8/40/55d840e6498b80521b106b0646247cb6.jpg
 ---
 

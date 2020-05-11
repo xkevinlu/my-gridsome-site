@@ -1,7 +1,7 @@
 ---
 title: Visualizing an Epidemic
 date: 2020-05-09 
-author: Kevin Lu
+author: Kevin
 image: https://www.colorsandcode.com/thumbnail-visualizing-an-epidemic.PNG
 ---
 <style>

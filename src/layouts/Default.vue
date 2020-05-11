@@ -2,7 +2,9 @@
   <div class="layout">
     <b-container>
       <b-navbar class="cc-navbar" variant="faded" type="light">
-        <g-link to="/"><b-navbar-brand tag="h1" class="mb-0">Colors and Code</b-navbar-brand></g-link>
+        <g-link to="/">
+          <b-navbar-brand tag="h1" class="mb-0">Colors and Code</b-navbar-brand>
+        </g-link>
 
         <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 
@@ -35,7 +37,7 @@ query {
 </static-query>
 
 <script>
-import mcEmailForm from '~/components/mc-email-form'
+import mcEmailForm from "~/components/mc-email-form";
 export default {
   components: {
     mcEmailForm
@@ -45,26 +47,27 @@ export default {
 
 <style>
 @media screen and (min-width: 960px) {
-    html {
-        margin-left: calc(100vw - 100%);
-        margin-right: 0;
-    }
+  html {
+    margin-left: calc(100vw - 100%);
+    margin-right: 0;
+  }
 }
 body {
-  font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
-  margin:0;
-  padding:0;
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+  margin: 0;
+  padding: 0;
   line-height: 1.5;
 }
 
 h5 {
-  color:gray;
+  color: gray;
 }
 
 .cc-navbar {
-  padding: 0!important;
+  padding: 0 !important;
   border-bottom: 2px solid black;
-  margin-bottom:2em;
-  margin-top:2em;
+  margin-bottom: 2em;
+  margin-top: 2em;
 }
 </style>

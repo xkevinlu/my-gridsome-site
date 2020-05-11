@@ -1,13 +1,12 @@
 <template>
   <Layout>
     <h1>Archives</h1>
-  <ul>
-<li v-for="post in $page.blogPosts.edges"
-      :key="post.id">
-  <g-link :to="post.node.path">{{post.node.title}}</g-link> - {{post.node.date}} by {{post.node.author}}
-  </li>
-
-  </ul>
+    <ul>
+      <li v-for="post in $page.blogPosts.edges" :key="post.id">
+        <g-link :to="post.node.path">{{post.node.title}}</g-link>
+        - {{post.node.date}} by {{post.node.author}}
+      </li>
+    </ul>
   </Layout>
 </template>
 
@@ -31,7 +30,7 @@ query blogPosts {
 <script>
 export default {
   metaInfo: {
-    title: 'About us'
+    title: "About us"
   }
-}
+};
 </script>

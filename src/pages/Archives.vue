@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <h1>Archives</h1>
+    <h5>Archives</h5>
     <ul>
       <li v-for="post in $page.blogPosts.edges" :key="post.id">
         <g-link :to="post.node.path">{{post.node.title}}</g-link>

@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <h1>About us</h1>
+    <h5>About</h5>
     <logo></logo>
     <p>Colors and Code is a blog about design, technology, and data. Join the email list to receive updates.</p>
   </Layout>

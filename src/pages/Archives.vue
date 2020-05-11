@@ -1,9 +1,32 @@
 <template>
   <Layout>
-    <h1>About us</h1>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error doloremque omnis animi, eligendi magni a voluptatum, vitae, consequuntur rerum illum odit fugit assumenda rem dolores inventore iste reprehenderit maxime! Iusto.</p>
+    <h1>Archives</h1>
+  <ul>
+<li v-for="post in $page.blogPosts.edges"
+      :key="post.id">
+  <g-link :to="post.node.path">{{post.node.title}} - {{post.node.date}} by {{post.node.author}}</g-link>
+  </li>
+
+  </ul>
   </Layout>
 </template>
+
+<page-query>
+query blogPosts {
+  blogPosts: allBlogPost(sortBy: "date") {
+    edges {
+      node {
+        id
+        title
+        author
+        path
+        date(format: "MMMM DD, YYYY")
+        image
+      }
+    }
+  }
+}
+</page-query>
 
 <script>
 export default {

@@ -38,12 +38,6 @@ export default {
   margin: 2em auto;
 }
 
-@media (max-width: 767px) {
-  .markdown-body {
-    padding: 15px;
-  }
-}
-
 h6 {
   color: gray;
   font-weight: 400;

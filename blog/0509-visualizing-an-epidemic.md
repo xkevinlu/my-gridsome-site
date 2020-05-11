@@ -2,7 +2,7 @@
 title: Visualizing an Epidemic
 date: 2020-05-09 
 author: Kevin Lu
-image: https://xkevinlu.github.io/wundercat/assets/visualizing-an-epidemic/splash.PNG
+image: https://www.colorsandcode.com/thumbnail-visualizing-an-epidemic.PNG
 ---
 <style>
 @media (min-width:600px) {

@@ -14,7 +14,7 @@
   border:1px solid rgba(0,0,0,0.5);
 }
 
-@media only screen and (min-width: 480px) {
+@media only screen and (min-width:480px) {
   .sim-container canvas.simulation {
     display: block;
     width:100%;
@@ -22,7 +22,6 @@
     max-height:400px;
     border:1px solid rgba(0,0,0,0.5);
   }
-  
 }
 
 .sim-caption {
@@ -107,8 +106,9 @@
 
 .component-container {
   padding:4px;
+  width:100vw;
   max-width:500px;
-  margin:auto;
+  margin:0;
 }
 
 

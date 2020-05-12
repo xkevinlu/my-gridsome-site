@@ -29,7 +29,7 @@ image: https://www.colorsandcode.com/thumbnail-visualizing-an-epidemic.PNG
 
 </style>
 
-<iframe class="iframe-sim" src="https://www.colorsandcode.com/visualizing-an-epidemic-assets/sim0" scrolling="no" height="550px"></iframe>
+<iframe class="iframe-sim" src="https://www.colorsandcode.com/visualizing-an-epidemic-assets/sim0" scrolling="no" height="540px"></iframe>
 
 How does an outbreak of a single case of coronavirus grow into over 3.6 million cases worldwide in just a few months? Today the US alone has over 1.2 million cases, yet just two months ago there were less than 50 reported cases.
 
@@ -50,7 +50,7 @@ To get a better intuitive understanding of how such exponential growth occurs, i
 
 What would we expect to happen if we change the chance of infection? We can think of infection chance as a proxy for protective measures such as better hygiene, wearing of face masks, and overall caution. For instance, let’s see how our model responds when we cut the infection rate in half to 25%:
 
-<iframe class="iframe-sim" src="https://www.colorsandcode.com/visualizing-an-epidemic-assets/sim1" scrolling="no" height="550px"></iframe>
+<iframe class="iframe-sim" src="https://www.colorsandcode.com/visualizing-an-epidemic-assets/sim1" scrolling="no" height="540px"></iframe>
 
 We can see that lower chance of spread and duration both strongly help to flatten the curve. If we assume you self quarantine once you are symptomatic, we can use duration as a proxy for the incubation period where you might be unknowingly spreading the disease. For example, the CDC estimates the incubation period to be 14 days for the coronavirus. Norovirus on the other hand has an incubation period of 1-2 days. We can see our model being fairly sensitive to changes in duration as well.
 
@@ -66,7 +66,7 @@ We can see that the earlier we issue the lockdown, the less spread there is. Als
 
 Finally, let's explore what happens when you issue a forced quarantine or travel restriction. Again for simplicity, we will proxy for this by introducing a simple divider that splits our population in half when we issue this restriction.
 
-<iframe class="iframe-sim iframe-sim3" src="https://www.colorsandcode.com/visualizing-an-epidemic-assets/sim3" scrolling="no" height="500px"></iframe>
+<iframe class="iframe-sim iframe-sim3" src="https://www.colorsandcode.com/visualizing-an-epidemic-assets/sim3" scrolling="no" height="470px"></iframe>
 
 If we are able to keep 100% of the infected in one half until they recover, we guarantee preventing the spread to the other half. However, lifting these restrictions too early enable the spread to resurge and make its way through the population.
 

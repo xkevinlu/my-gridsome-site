@@ -29,7 +29,7 @@ image: https://www.colorsandcode.com/thumbnail-visualizing-an-epidemic.PNG
 
 </style>
 
-<iframe class="iframe-sim" src="https://www.colorsandcode.com/visualizing-an-epidemic-assets/sim0" scrolling="no" height="510px"></iframe>
+<iframe class="iframe-sim" src="https://www.colorsandcode.com/visualizing-an-epidemic-assets/sim0" scrolling="no" height="520px"></iframe>
 
 How does an outbreak of a single case of coronavirus grow into over 3.6 million cases worldwide in just a few months? Today the US alone has over 1.2 million cases, yet just two months ago there were less than 50 reported cases.
 

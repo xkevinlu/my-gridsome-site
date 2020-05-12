@@ -1,7 +1,7 @@
 <template>
   <layout>
     <h2>{{$page.blogPost.title}}</h2>
-    <h6>{{$page.blogPost.date}} by {{$page.blogPost.author}}</h6>
+    <h6>{{$page.blogPost.date}}</h6>
     <div class="markdown-body" v-html="$page.blogPost.content" />
   </layout>
 </template>

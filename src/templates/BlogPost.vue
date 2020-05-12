@@ -35,7 +35,9 @@ export default {
   box-sizing: border-box;
   min-width: 200px;
   max-width: 980px;
-  margin: 2em auto;
+  margin: 2em 0em;
+  padding-bottom:4em;
+  border-bottom:1px solid black;
 }
 
 h6 {

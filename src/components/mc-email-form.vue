@@ -58,4 +58,8 @@
 <script>
 </script>
 <style scoped>
+
+.post-footer {
+  margin-bottom:3em;
+}
 </style>

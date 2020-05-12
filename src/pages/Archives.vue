@@ -30,7 +30,7 @@ query blogPosts {
 <script>
 export default {
   metaInfo: {
-    title: "About us"
+    title: "Archives"
   }
 };
 </script>

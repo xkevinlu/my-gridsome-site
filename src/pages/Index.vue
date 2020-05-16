@@ -20,7 +20,7 @@
               <g-link class="no-link-color" :to="post.node.path">
                 <b-card-title>{{post.node.title}}</b-card-title>
               </g-link>
-              <b-card-text>{{post.node.date}} by {{post.node.author}}</b-card-text>
+              <b-card-text>{{post.node.date}}</b-card-text>
             </b-card-body>
           </b-col>
         </b-row>

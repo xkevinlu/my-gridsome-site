@@ -137,7 +137,9 @@ body {
 .component-container {
     width:100%;
     max-width:700px;
-    min-width:300px;
+    min-width:280px;
+    margin:auto;
+    padding:10px;
 }
 
 h4{

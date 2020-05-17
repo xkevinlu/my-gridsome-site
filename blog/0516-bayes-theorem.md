@@ -70,8 +70,11 @@ It then follows that out of the 47 total times Shannon invited someone to watch 
 **Thus, if Shannon invites you to watch Netflix, you're probably just watching Netflix.**
 
 
-Source inspirations: 
+----
+Realistically, the chance of chill is typically not independent and random, and is heavily correlated with prior interactions. You may have other signals or reasons to believe Shannon is interested. In a future post, we will look at independence and what happens when we factor in additional information.*   
 
-Bayes Theorem 3blue1brown[https://www.youtube.com/watch?v=HZGCoVF3YvM]
+**Results not guaranteed*  
 
-Bayesian Trap Veritasium[https://www.youtube.com/watch?v=R13BD8qKeTg&t=302s]
+Learn more about Bayes' theorem:  
+[Bayes Theorem - 3blue1brown](https://www.youtube.com/watch?v=HZGCoVF3YvM)  
+[The Bayesian Trap - Veritasium](https://www.youtube.com/watch?v=R13BD8qKeTg&t=302s)  

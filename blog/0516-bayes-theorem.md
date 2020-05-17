@@ -2,7 +2,7 @@
 title: Bae's Theorem - How to statistically tell if she's into you
 date: 2020-05-17
 author: Kevin
-image: https://www.colorsandcode.com/stick-figure-girl-3.png
+image: https://www.colorsandcode.com/bayes-theorem-assets/stick-figure-girl-2.png
 ---
 <style>
 .iframe-1 {
@@ -16,9 +16,9 @@ img {
     width:95%;
 }
 
-@media (min-width:600px) {
-  .iframe-sim {
-    height:500px;
+@media (min-width:480px) {
+  .iframe-1 {
+    height:550px;
   }
 </style>
 Meet Shannon.

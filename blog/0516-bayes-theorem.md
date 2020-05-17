@@ -18,7 +18,7 @@ img {
 
 @media (min-width:480px) {
   .iframe-1 {
-    height:550px;
+    height:450px;
   }
 </style>
 Meet Shannon.

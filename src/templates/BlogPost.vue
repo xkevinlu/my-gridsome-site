@@ -2,6 +2,7 @@
   <layout>
     <h2>{{$page.blogPost.title}}</h2>
     <h6>{{$page.blogPost.date}}</h6>
+      <vue-goodshare></vue-goodshare>
     <div class="markdown-body" v-html="$page.blogPost.content" />
     <vue-goodshare></vue-goodshare>
   </layout>
@@ -78,4 +79,5 @@ h6 {
   color: gray;
   font-weight: 400;
 }
+
 </style>

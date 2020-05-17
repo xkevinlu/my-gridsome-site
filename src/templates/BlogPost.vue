@@ -14,6 +14,8 @@ query Post ($id: ID!) {
     content
     date (format: "MMMM DD, YYYY")
     author
+    image
+    excerpt
     }
   }
 </page-query>
@@ -28,7 +30,33 @@ export default {
   },
   metaInfo() {
     return {
-      title: this.$page.blogPost.title
+      title: this.$page.blogPost.title,
+      meta: [
+        {
+          name: "description",
+          content: this.$page.blogPost.excerpt
+        },
+        {
+          property: "og:title",
+          content: this.$page.blogPost.title
+        },
+        {
+          name: "twitter:card",
+          content: this.$page.blogPost.image ? "summary_large_image" : "summary",
+        },
+        {
+          name: "twitter:creator",
+          content: "@kevinlukevinlu"
+        },
+        {
+          property: "og:description",
+          cotent: this.$page.blogPost.excerpt
+        },
+        {
+          property: "og:image",
+          content: this.$page.blogPost.image || ""
+        }
+      ]
     };
   }
 };

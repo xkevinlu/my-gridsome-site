@@ -2,6 +2,7 @@
 title: Visualizing an Epidemic
 date: 2020-05-09 
 author: Kevin
+excerpt: Interactive visualization of a spreading epidemic with lockdown and travel restrictions
 image: https://www.colorsandcode.com/thumbnail-visualizing-an-epidemic.PNG
 ---
 <style>

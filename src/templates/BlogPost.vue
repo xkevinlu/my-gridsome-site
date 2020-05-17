@@ -1,10 +1,10 @@
 <template>
-  <layout>
+  <layout class="mainLayout">
     <h2>{{$page.blogPost.title}}</h2>
     <h6>{{$page.blogPost.date}}</h6>
-      <vue-goodshare></vue-goodshare>
+<div class="sharethis-inline-share-buttons"></div>
     <div class="markdown-body" v-html="$page.blogPost.content" />
-    <vue-goodshare></vue-goodshare>
+<div class="sharethis-inline-share-buttons"></div>
   </layout>
 </template>
 
@@ -23,11 +23,23 @@ query Post ($id: ID!) {
 
 
 <script>
-import VueGoodshare from "vue-goodshare";
+// import VueGoodshare from "vue-goodshare";
 
 export default {
-  components: {
-    VueGoodshare
+  // components: {
+  //   VueGoodshare
+  // },
+  mounted() {
+    let shareScript = document.createElement("script");
+    shareScript.setAttribute(
+      "src",
+      "https://platform-api.sharethis.com/js/sharethis.js#property=5ec0dd5daa9dfe001ab3f778&product=inline-share-buttons&cms=website"
+    );
+    shareScript.setAttribute(
+      "async",
+      "async"
+    );
+    document.head.appendChild(shareScript);
   },
   metaInfo() {
     return {
@@ -43,7 +55,7 @@ export default {
         },
         {
           name: "twitter:card",
-          content: this.$page.blogPost.image ? "summary_large_image" : "summary",
+          content: this.$page.blogPost.image ? "summary_large_image" : "summary"
         },
         {
           name: "twitter:creator",
@@ -75,9 +87,12 @@ export default {
   border-bottom: 1px solid black;
 }
 
+.mainLayout {
+  margin-bottom:3em;
+}
+
 h6 {
   color: gray;
   font-weight: 400;
 }
-
 </style>

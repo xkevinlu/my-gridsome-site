@@ -18,13 +18,14 @@ img {
 
 @media (min-width:480px) {
   .iframe-1 {
-    height:450px;
+    height:475px;
   }
 </style>
-Meet Shannon.
+
 
 ![shannon stick figure](../src/stick-figure-girl-1.png)
 
+### This is Shannon.
 
 You're secretly in love with Shannon. You guys are friends, though you have no idea if Shannon is into you. Shannon typically shows no interest in 95% of people. However when she is interested and wants to "chill" with someone, she would invite them over for Netflix 90% of the time. 
 
@@ -55,7 +56,11 @@ $$
 P(chill \mid netflix) = \frac{P(netflix \mid chill) \, P(chill)}{P(netflix)}
 $$
 
-To better understand this intuitively, let's visualize this in context. Take a hypothetical 20 people around Shannon (that she's wants to chill with or just friends), and the last 10 times Shannon invited them to do something together (netflix or not netflix).
+>### Bae's theorem: Given evidence of interest, we should update our beliefs on the hypothesis that our person of interest will become bae.  
+
+The key underlying concept here is that your information should not be evaluated in a vacuum -- they should update your prior beliefs. The information that there is a 90% chance Shannon will invite you to watch Netflix if Shannon is interested in you must **update**, not replace, the prior belief that she is not interested in 95% of people. To better understand this intuitively, let's visualize this in context. Take a hypothetical 20 people around Shannon (that she's wants to chill with or just friends), and the last 10 times Shannon invited them to do something together (netflix or not netflix).
+
+### Bae's theorem visualization
 
 <iframe  class="iframe-1"  src="https://www.colorsandcode.com/bayes-theorem-assets/bayes.html" scrolling="no"></iframe>
 
@@ -67,13 +72,13 @@ But with the 19 other friends that she will watch Netflix with 20% of time, out 
 
 It then follows that out of the 47 total times Shannon invited someone to watch Netflix, only 9 of them were with someone she wanted to chill with. Given that she invites you watch Netflix, there's only a 9/47 = ~19% chance that means she wants to chill.
 
-**Thus, if Shannon invites you to watch Netflix, you're probably just watching Netflix.**
+### Conclusion: If Shannon invites you to watch Netflix, you're probably just watching Netflix.
 
 
 ----
-Realistically, the chance of chill is typically not independent and random, and is heavily correlated with prior interactions. You may have other signals or reasons to believe Shannon is interested. In a future post, we will look at independence and what happens when we factor in additional information.*   
+<sub>Realistically, the chance of chill is typically not independent and random, and is heavily correlated with prior interactions. You may have other signals or reasons to believe Shannon is interested. In a future post, we will look at independence and what happens when we factor in additional information.*   
 
-**Results not guaranteed*  
+<sub>*Results not guaranteed
 
 Learn more about Bayes' theorem:  
 [Bayes Theorem - 3blue1brown](https://www.youtube.com/watch?v=HZGCoVF3YvM)  

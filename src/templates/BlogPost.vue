@@ -3,6 +3,7 @@
     <h2>{{$page.blogPost.title}}</h2>
     <h6>{{$page.blogPost.date}}</h6>
     <div class="markdown-body" v-html="$page.blogPost.content" />
+    <vue-goodshare></vue-goodshare>
   </layout>
 </template>
 
@@ -19,7 +20,12 @@ query Post ($id: ID!) {
 
 
 <script>
+import VueGoodshare from "vue-goodshare";
+
 export default {
+  components: {
+    VueGoodshare
+  },
   metaInfo() {
     return {
       title: this.$page.blogPost.title
@@ -36,8 +42,8 @@ export default {
   min-width: 200px;
   max-width: 980px;
   margin: 2em 0em;
-  padding-bottom:4em;
-  border-bottom:1px solid black;
+  padding-bottom: 4em;
+  border-bottom: 1px solid black;
 }
 
 h6 {

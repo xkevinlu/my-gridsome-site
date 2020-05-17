@@ -48,10 +48,11 @@ query blogPosts {
 
 
 <script>
+
 export default {
   metaInfo: {
     title: "Home"
-  }
+  },
 };
 </script>
 

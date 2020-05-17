@@ -6,12 +6,24 @@
 
 module.exports = {
   siteName: 'Colors and Code',
+  transformers: {
+    remark: {
+      plugins: [
+        'gridsome-remark-katex'
+      ]
+    }
+  },
   plugins: [
     {
       use: '@gridsome/source-filesystem',
       options: {
         typeName: 'BlogPost',
         path: './blog/**/*.md',
+      },
+      remark: {
+        plugins: [
+          'gridsome-remark-katex'
+        ]
       }
     },
     {

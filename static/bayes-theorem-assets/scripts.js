@@ -19,7 +19,7 @@ window.addEventListener("resize", function () {
 })
 
 let ph = 0.05;
-let peh = 0.4;
+let peh = 0.9;
 let penh = 0.2;
 let ratio = 0;
 

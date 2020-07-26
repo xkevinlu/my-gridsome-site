@@ -3,7 +3,7 @@ title: Platypus Job Search
 date: 2020-07-25
 author: Kevin
 excerpt: Value in the unique intersection of skills
-image: https://www.colorsandcode.com/platypus-assets/venn-diagram.png
+image: https://www.colorsandcode.com/thumbnail-platypus.png
 ---
 I've been thinking about how we present our best selves to appeal to others professionally, as both a job seeker and interviewer. 
 
@@ -13,9 +13,10 @@ As an interviewer, now I see a plethora of portfolios that check all the boxes l
 
 **What makes you different?**
 
-![platypus fusion](../src/platypus-assets/fusion.png)
-
 ## The platypus is unique.
+
+
+![platypus fusion](../src/platypus-assets/fusion.png)
 
 It possesses the beak of a duck, fur of an otter, tail of a beaver, lays eggs, venomous, and many other traits. 
 

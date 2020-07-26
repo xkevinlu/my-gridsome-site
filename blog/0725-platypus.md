@@ -3,7 +3,7 @@ title: Platypus Job Search
 date: 2020-07-25
 author: Kevin
 excerpt: Value in the unique intersection of skills
-image: https://www.colorsandcode.com/platypus-assets/venn-diagram.png
+image: https://www.colorsandcode.com/thumbnail-platypus.png
 ---
 
 ![platypus fusion](../src/platypus-assets/fusion.png)

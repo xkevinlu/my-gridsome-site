@@ -8,4 +8,4 @@ image: https://www.colorsandcode.com/bayes-theorem-assets/stick-figure-girl-2.pn
 
 A platypus applies for a job. This is what he ends up doing.
 
-![shannon stick figure](..\src\netflix-and-chill-diagram-2.png)
+![shannon stick figure](../src/netflix-and-chill-diagram-2.png)

@@ -13,10 +13,9 @@ As an interviewer, now I see a plethora of portfolios that check all the boxes l
 
 **What makes you different?**
 
-## The platypus is unique.
-
-
 ![platypus fusion](../src/platypus-assets/fusion.png)
+
+## The platypus is unique.
 
 It possesses the beak of a duck, fur of an otter, tail of a beaver, lays eggs, venomous, and many other traits. 
 

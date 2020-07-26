@@ -14,8 +14,7 @@
     "bootstrap-vue": "^2.13.1",
     "gridsome": "^0.7.0",
     "gridsome-remark-katex": "^0.1.1",
-    "vue": "^2.6.11",
-    "vue-goodshare": "^1.5.0"
+    "vue": "^2.6.11"
   },
   "devDependencies": {
     "css-loader": "^3.5.3",

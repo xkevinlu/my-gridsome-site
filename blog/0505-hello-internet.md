@@ -1,5 +1,5 @@
 ---
-title: Hello Internet
+title: Hello Internet 3.0
 date: 2020-05-05
 author: Kevin
 excerpt: I'm starting a new blog
@@ -12,3 +12,6 @@ So here we go.
 
 ![enter image description here](https://i.imgur.com/YUEF0lq.jpg)
 
+For some ungodly reason, I have decided that instead of using a popular blogging platform, that I would build my blog from scratch using a JAMStack architecture. As a designer, I've always wanted to develop my chops in actual development. I will be building the blog using Vue + Gridsome, deployed through Github and Netlify, which will hopefully give me my much needed freedom to create compelling interactive visualizations. It also has the very slight benefit of being free of charge to host forever.
+
+But seeing as how I've spent more time trying to properly fetch my post list from the GraphQL database, I may be regretting this decision already.

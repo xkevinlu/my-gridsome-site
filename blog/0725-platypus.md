@@ -58,6 +58,8 @@ But as a designer-coder with a quant background and a passion for visualizing in
 
 In dating we often hear the advice to "be yourself." But if "being yourself" means that you don't shower and can't hold a conversation, you might have a harder time finding a date. The reality is that there is a baseline that underscores the matchmaking process in both dating and the professional world. 
 
-I prefer the modified version of "be yourself" -- **be your best self**. If the version of yourself today doesn't meet the bar of who you want to be with or where you want to work, then you'll have to put in the effort to upgrade into a better iteration of yourself. Spend the time to learn the necessary skills and expertise. 
+I prefer the modified version of "be yourself" -- **be your best self**. If the version of yourself today doesn't meet the bar of who you want to be with or where you want to work, then you'll have to put in the effort to upgrade into a better iteration of yourself. Spend the time to learn the necessary skills and expertise. Be authentic to your own passions and experiences. You can only fake things for so long, and pretending to be something that you're not just to fit the mold of where you think you want to be can be exhausting. 
 
-Be authentic to your own passions and experiences. The intersection of your skills, passions, and experiences is what makes you unique. A platypus may not make for the best duck, beaver, or otter. But a duck, beaver, or otter will never be able to out-platypus the platypus.
+While you might find that this approach limits yourself to fewer options, those options end up being of a higher caliber and a greater chance of success. **You only need one job** (and one significant other, typically). By being your best self, you have a much higher chance of actually finding a match that is the best fit for you. 
+
+The intersection of your skills, passions, and experiences is what makes you unique, and can be your greatest superpower. A platypus may not make for the best duck, beaver, or otter. But a duck, beaver, or otter will never be able to out-platypus the platypus.

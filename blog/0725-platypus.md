@@ -42,7 +42,7 @@ Its unique combination is its best selling point. Nothing else even comes close 
 
 ![platypus venn-diagram](../src/platypus-assets/venn-diagram.png)
 
-**What is your superpower?**
+## What is your superpower?
 
 How have your unique experiences and interests shaped your views and perspectives? What unique blend of skills do you bring to the table?
 
@@ -62,4 +62,4 @@ I prefer the modified version of "be yourself" -- **be your best self**. If the 
 
 While you might find that this approach limits yourself to fewer options, those options end up being of a higher caliber and a greater chance of success. **You only need one job** (and one significant other, typically). By being your best self, you have a much higher chance of actually finding a match that is the best fit for you. 
 
-The intersection of your skills, passions, and experiences is what makes you unique, and can be your greatest superpower. A platypus may not make for the best duck, beaver, or otter. But a duck, beaver, or otter will never be able to out-platypus the platypus.
+The intersection of your skills, passions, and experiences is what makes you unique, and can be your greatest asset. A platypus may not make for the best duck, beaver, or otter. But a duck, beaver, or otter will never be able to out-platypus the platypus.

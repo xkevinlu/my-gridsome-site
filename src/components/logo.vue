@@ -1,6 +1,6 @@
 <template>
 <div class="container">
-<svg width="30%" height="30%" viewBox="0 0 364 355" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+<!-- <svg width="30%" height="30%" viewBox="0 0 364 355" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
     <g id="Artboard1" transform="matrix(0.303333,0,0,0.736515,0,-226.11)">
         <rect x="0" y="307" width="1200" height="482" style="fill:none;"/>
         <g transform="matrix(8.6813,0,0,3.57539,162.64,327.987)">
@@ -10,7 +10,7 @@
             <text x="267.687px" y="366.234px" style="font-family:'HPSimplified-Regular', 'HP Simplified', sans-serif;font-size:12.835px;fill:rgb(37,58,71);">C<tspan x="273.951px 280.702px 283.808px 290.56px " y="366.234px 366.234px 366.234px 366.234px ">olor</tspan>s &amp; C<tspan x="320.453px 327.205px " y="366.234px 366.234px ">od</tspan>e</text>
         </g>
     </g>
-</svg>
+</svg> -->
 </div>
 </template>
 

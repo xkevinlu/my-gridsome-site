@@ -1,5 +1,5 @@
 ---
-title: What a platypus can teach us about the job search
+title: What a platypus can teach us about finding our ideal job
 date: 2020-07-25
 author: Kevin
 excerpt: Value in the unique intersection of skills

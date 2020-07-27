@@ -12,7 +12,7 @@
         novalidate
       >
         <div id="mc_embed_signup_scroll">
-          <h5>Subscribe</h5>
+          <h5>Subscribe to Newsletter</h5>
           <div class="mc-field-group">
             <p>If you're interested in reading more posts like this one when they come out, sign up for our e-mail list. No spam, promise.</p>
             <b-form-group

@@ -85,7 +85,13 @@ export default {
   max-width: 980px;
   margin: 2em 0em;
   padding-bottom: 4em;
+  font-size:1.2em;
+  line-height:1.8em;
   border-bottom: 1px solid black;
+}
+
+.markdown-body p {
+ font-size:2em;
 }
 
 .mainLayout {
@@ -96,4 +102,6 @@ h6 {
   color: gray;
   font-weight: 400;
 }
+
+
 </style>

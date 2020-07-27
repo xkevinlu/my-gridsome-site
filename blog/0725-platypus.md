@@ -62,3 +62,7 @@ In dating we often hear the advice to "be yourself." Granted, if "being yourself
 I prefer the modified version of "be yourself" -- **be your best self**. If the version of yourself today doesn't meet the bar of who you want to be with or where you want to work, then you'll have to put in the effort to upgrade into a better iteration of yourself. Spend the time to learn the necessary skills and expertise. Be authentic to your own passions and experiences. You can only fake things for so long, and pretending to be something that you're not is often an exhausting, non-viable strategy for the long term.
 
 The intersection of your skills, passions, and experiences is what makes you unique, and can be your greatest asset. A platypus may not make for the best duck, beaver, or otter. But a duck, beaver, or otter will never be able to out-platypus the platypus.
+
+----
+
+Inspired by a post from [Julie Zhuo's The Looking Glass](https://lg.substack.com/p/the-looking-glass-candidates-companies)

@@ -12,14 +12,14 @@
         novalidate
       >
         <div id="mc_embed_signup_scroll">
-          <h5>Subscribe to Newsletter</h5>
+          <h5>Colors and Code</h5>
           <div class="mc-field-group">
-            <p>If you're interested in reading more posts like this one when they come out, sign up for our e-mail list. No spam, promise.</p>
+            <p>A collection of essays by a product designer on design, tech, and data.</p>
             <b-form-group
               id="input-group-1"
-              label="Email address:"
+              label="Sign up for newsletter:"
               label-for="input-1"
-              description="We'll never share your email with anyone else."
+              description="New post every sometimes."
             >
               <b-form-input
                 id="mce-EMAIL"

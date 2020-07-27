@@ -2,7 +2,7 @@
 title: Hello Internet 3.0
 date: 2020-05-05
 author: Kevin
-excerpt: I'm starting a new blog
+excerpt: Building and coding a blog from the ground up.
 image: https://www.colorsandcode.com/thumbnail-hello.png
 ---
 

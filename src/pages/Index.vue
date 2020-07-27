@@ -19,6 +19,7 @@
               <b-card-body>
                 <b-card-title>{{post.node.title}}</b-card-title>
                 <b-card-text>{{post.node.date}}</b-card-text>
+                <b-card-text>{{post.node.excerpt}}</b-card-text>
               </b-card-body>
             </b-col>
           </b-row>
@@ -37,6 +38,7 @@ query blogPosts {
         title
         author
         path
+        excerpt
         date(format: "MMMM DD, YYYY")
         image
       }

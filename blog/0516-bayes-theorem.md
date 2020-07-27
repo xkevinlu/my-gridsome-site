@@ -2,7 +2,7 @@
 title: Bae's Theorem - How to statistically tell if she's into you
 date: 2020-05-17
 author: Kevin
-excerpt: An interactive visualization of Bayesian conditional probability
+excerpt: Interactive visualization of Bayesian conditional probability.
 image: https://www.colorsandcode.com/thumbnail-bayes.png
 ---
 <style>

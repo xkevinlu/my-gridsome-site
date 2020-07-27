@@ -24,29 +24,29 @@ img {
 </style>
 
 
-![shannon stick figure](../src/stick-figure-girl-1.png)
+![shannon stick figure](../src/assets/bayes/stick-figure-girl-1.png)
 
 ### This is Shannon.
 
 You're secretly in love with Shannon. You guys are friends, though you have no idea if Shannon is into you. Shannon typically shows no interest in 95% of people. However when she is interested and wants to "chill" with someone, she would invite them over for Netflix 90% of the time. 
 
-![invites you to netflix is she into you](../src/stick-figure-girl-2.png)
+![invites you to netflix is she into you](../src/assets/bayes/stick-figure-girl-2.png)
 
 One day, Shannon invites you over for "Netflix". You are super excited, but you realize you're not sure if this means anything. Maybe she actually wants to watch Tiger King with someone and sees you as just a friend. But knowing Shannon, you remember that she doesn't like watching stuff together with people, and typically doesn't invite "just friends" over alone for Netflix. You think there's only a 20% chance she asks a friend she has no interest in to watch Netflix.
 
-![netflix and chill is she into you](../src/stick-figure-girl-3.png)
+![netflix and chill is she into you](../src/assets/bayes/stick-figure-girl-3.png)
 
 ## Is Shannon inviting you over for chill, or just Netflix?
 
 At first it seems highly likely Shannon wants to chill. After all, there is a 90% chance of her inviting you for Netflix if she's into you, and only a 20% chance of a false positive.
 
-![netflix and chill is she into you](../src/netflix-and-chill-diagram-1.png)
+![netflix and chill is she into you](../src/assets/bayes/netflix-and-chill-diagram-1.png)
 
 However, given the current information its actually **statistically far more likely you're going to end up just watching Netflix.** Why? Because of the [base rate fallacy](https://en.wikipedia.org/wiki/Base_rate_fallacy).
 
 Assuming we have no additional information about whether Shannon wants to chill with you, we need to consider the base rate of how likely it is for Shannon to want to chill (5%), compared to the chance of being just a friend (95%).
 
-![netflix and chill is she into you](../src/netflix-and-chill-diagram-2.png)
+![netflix and chill is she into you](../src/assets/bayes/netflix-and-chill-diagram-2.png)
 
 We can now formalize how to obtain the likelihood of chill, given that Shannon has invited you to Netflix with a formula elegantly defined with **Bae's theorem.**
  ## Bae's theorem

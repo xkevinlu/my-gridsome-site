@@ -1,5 +1,5 @@
 ---
-title: Platypus Job Search
+title: What a platypus can teach us about the job search
 date: 2020-07-25
 author: Kevin
 excerpt: Value in the unique intersection of skills
@@ -13,7 +13,7 @@ As an interviewer and mentor, now I see a plethora of cookie cutter portfolios t
 
 ## What makes you different?
 
-![platypus fusion](../src/platypus-assets/fusion.png)
+![platypus fusion](../src/assets/platypus/fusion.png)
 
 **The platypus is unique.**
 
@@ -21,13 +21,13 @@ It possesses the beak of a duck, fur of an otter, and tail of a beaver. It is a 
 
 This mix is so bizarre that initially scientists thought its very existence must have been a hoax. "It naturally excites the idea of some deceptive preparation by artificial means," English zoologist George Shaw wrote in 1799. He even cut the pelt with scissors in a vain attempt to try and find the stitches that attached the bill to the pelt.
 
-![platypus customize](../src/platypus-assets/customize.png)
+![platypus customize](../src/assets/platypus/customize.png)
 
 Given it's unique amalgamation of traits, how would you recommend a platypus apply for a job?
 
 Despite being a jack of many trades, it is certainly master of none. If the job required only the fastest swimmers, it wouldn't stand a chance against sailfish and swordfish. If it were a competition to be the most venomous, its going to lose out to the box jellyfish and many others. Worst yet, if you were to evaluate a platypus by its ability to sing like songbirds, it might even start to lose self-esteem and think it'll never find gainful employment.
 
-![platypus warning](../src/platypus-assets/customize-warning.png)
+![platypus warning](../src/assets/platypus/customize-warning.png)
  
 Instead, imagine how a platypus might successfully pitch itself:
 
@@ -41,7 +41,7 @@ Nor would you ask it to pretend to be a pufferfish, because despite it being ven
 The platypus's unique combination is its best selling point. Nothing else even comes close in terms of being good at its combination of traits. The intersection of its unique qualities is its superpower.
 
 
-![platypus venn-diagram](../src/platypus-assets/venn-diagram.png)
+![platypus venn-diagram](../src/assets/platypus/venn-diagram.png)
 
 ## What is your superpower?
 

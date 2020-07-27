@@ -85,8 +85,8 @@ export default {
   max-width: 980px;
   margin: 2em 0em;
   padding-bottom: 4em;
-  font-size:1.2em;
-  line-height:1.8em;
+  font-size:1.3em;
+  line-height:1.5em;
   border-bottom: 1px solid black;
 }
 

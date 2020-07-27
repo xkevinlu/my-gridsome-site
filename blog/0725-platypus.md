@@ -2,7 +2,7 @@
 title: What a platypus can teach us about finding our ideal job
 date: 2020-07-25
 author: Kevin
-excerpt: Value in the unique intersection of skills
+excerpt: Finding value in the intersection of your unique skills and experiences.
 image: https://www.colorsandcode.com/thumbnail-platypus.png
 ---
 I've been thinking about how we present ourselves to appeal to others professionally, both as a job seeker and interviewer. 
@@ -34,9 +34,9 @@ Instead, imagine how a platypus might successfully pitch itself:
 >  **"Not only can I swim, but I can poison enemies and see underwater
 > with electroreception!"**
 
-Instead of shoehorning itself into a mold of a duck, it would be way better off emphasizing its own strengths. Even though it can compete with the beak, it can't fly and it can't quack. If it doesn't fly like a duck or quack like a duck, it might not be best to compete as a duck.
+Instead of shoehorning itself into a mold of a duck, it would be way better off emphasizing its own strengths. Even though it can compete with the beak, it can't fly and it can't quack. If it doesn't fly like a duck or quack like a duck, maybe its not meant to be a duck.
 
-Same goes for pretending to be a pufferfish, because despite it being venomous it cant do the cool puffing up thing.
+Same goes for pretending to be a pufferfish, because despite it being venomous it cant do the cool puffing up thing. And although it has a beaver tail, it certainly can't build dams quite as well.
 
 The platypus's unique combination is its best selling point. Nothing else even comes close in terms of being good at its combination of traits. The intersection of its unique qualities is its superpower.
 

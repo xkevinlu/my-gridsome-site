@@ -11,6 +11,8 @@ When I graduated college looking for my first job, the conventional wisdom was t
 
 As an interviewer and mentor, now I see a plethora of cookie cutter portfolios that check all the boxes listed, each complete with case studies that demonstrate a thoughtful design thinking process, and showcasing a range of design skills and SEO buzzwords. *Check.* But what about beyond that? What about the boxes not listed?
 
+People hire individuals, not websites.
+
 ## What makes you different?
 
 ![platypus fusion](../src/assets/platypus/fusion.png)
@@ -25,7 +27,7 @@ This mix is so bizarre that initially scientists thought its very existence must
 
 Given it's unique amalgamation of traits, how would you recommend a platypus apply for a job?
 
-Despite being a jack of many trades, it is certainly master of none. Its not as a fast as a sailfish or swordfish. Its not as poisonous as a pufferfish. If you were to evaluate a platypus by its aptitude in flying like a duck, it might even start to lose self-esteem and think it'll never find gainful employment.
+Although a jack of many trades, it is not particularly a master in each one. If the job required the fastest swimmer, its not as competitive as a sailfish or swordfish. If the job needed the most deadly venom, it would be outdone by a pufferfish or box jellyfish. Despite its beaver tail, if the job involved building a dam, a real beaver would certainly construct a better structure. If you were to evaluate a platypus by its aptitude in flying like a duck, it might even start to lose self-esteem and think it'll never find gainful employment.
 
 ![platypus warning](../src/assets/platypus/customize-warning.png)
  
@@ -34,9 +36,9 @@ Instead, imagine how a platypus might successfully pitch itself:
 >  **"Not only can I swim, but I can poison enemies and see underwater
 > with electroreception!"**
 
-Instead of shoehorning itself into a mold of a duck, it would be way better off emphasizing its own strengths. Even though it can compete with the beak, it can't fly and it can't quack. If it doesn't fly like a duck or quack like a duck, maybe its not meant to be a duck.
+Now who else can do that? 
 
-Same goes for pretending to be a pufferfish, because despite it being venomous it cant do the cool puffing up thing. And although it has a beaver tail, it certainly can't build dams quite as well.
+Instead of shoehorning itself into a mold of a duck, it would be way better off emphasizing its own strengths. Even though it can compete with the beak, it can't fly and it can't quack. If it doesn't fly like a duck or quack like a duck, maybe its not meant to be a duck.
 
 The platypus's unique combination is its best selling point. Nothing else even comes close in terms of being good at its combination of traits. The intersection of its unique qualities is its superpower.
 
@@ -57,11 +59,11 @@ But as a designer-coder with a quant background and a passion for visualizing in
 
 ## But if I don't try to be what companies are asking for, how will I get hired?
 
-In dating we often hear the advice to "be yourself." Granted, if "being yourself" means that you don't shower and can't hold a conversation, you might have a harder time finding a date. There is a baseline that underscores the matchmaking process in both dating and the professional world. While you might find that this approach limits yourself to fewer options, those options end up being of a higher caliber and a greater chance of success. After all, you only need one job (and one significant other, typically). By being your best self, you have a much higher chance of actually finding a match that is the best fit for you. 
+In dating we often hear the advice to "be yourself." By being yourself, you have a much higher chance of actually finding a match that is the best fit for you. You might match with less people/companies, but those matches will likely be a better fit, and have a much greater chance of working out well in the long term. After all, you only need one job (and one significant other, typically). 
 
-I prefer the modified version of "be yourself" -- **be your best self**. If the version of yourself today doesn't meet the bar of who you want to be with or where you want to work, then you'll have to put in the effort to upgrade into a better iteration of yourself. Spend the time to learn the necessary skills and expertise. Be authentic to your own passions and experiences. You can only fake things for so long, and pretending to be something that you're not is often an exhausting, non-viable strategy for the long term.
+Granted, if "being yourself" means that you don't shower and can't hold a conversation, you might have a harder time finding a match. There is a baseline that underscores the matchmaking process. I prefer the modified version of "be yourself" -- **become your best self**. If the version of yourself today doesn't meet the bar of who you want to be with or where you want to work, then you'll have to put in the effort to upgrade into a better iteration of yourself. Spend the time to learn the necessary skills and expertise. Be authentic to your own passions and experiences. You can only fake things for so long, and pretending to be something that you're not is often an exhausting, non-viable strategy for the long term.
 
-The intersection of your skills, passions, and experiences is what makes you unique, and can be your greatest asset. A platypus may not make for the best duck, beaver, or otter. But a duck, beaver, or otter will never be able to out-platypus the platypus.
+The intersection of your skills, passions, and experiences is what makes you unique, and can be your greatest asset. What makes you different is a huge part of the value you bring to a team. A platypus may not make for the best duck, beaver, or otter. But a duck, beaver, or otter will never be able to out-platypus the platypus.
 
 ----
 

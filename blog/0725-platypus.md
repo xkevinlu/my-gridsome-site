@@ -25,7 +25,7 @@ This mix is so bizarre that initially scientists thought its very existence must
 
 Given it's unique amalgamation of traits, how would you recommend a platypus apply for a job?
 
-Despite being a jack of many trades, it is certainly master of none. If the job required only the fastest swimmers, it wouldn't stand a chance against sailfish and swordfish. If it were a competition to be the most venomous, its going to lose out to the box jellyfish and many others. Worst yet, if you were to evaluate a platypus by its ability to sing like songbirds, it might even start to lose self-esteem and think it'll never find gainful employment.
+Despite being a jack of many trades, it is certainly master of none. Its not as a fast as a sailfish or swordfish. Its not as poisonous as a pufferfish. If you were to evaluate a platypus by its aptitude in flying like a duck, it might even start to lose self-esteem and think it'll never find gainful employment.
 
 ![platypus warning](../src/assets/platypus/customize-warning.png)
  
@@ -34,9 +34,9 @@ Instead, imagine how a platypus might successfully pitch itself:
 >  **"Not only can I swim, but I can poison enemies and see underwater
 > with electroreception!"**
 
-You wouldn't recommend it shoehorn itself into a mold of a duck. Even though it can compete with the beak, it doesn't have feathers and can't quack.
+Instead of shoehorning itself into a mold of a duck, it would be way better off emphasizing its own strengths. Even though it can compete with the beak, it can't fly and it can't quack. If it doesn't fly like a duck or quack like a duck, it might not be best to compete as a duck.
 
-Nor would you ask it to pretend to be a pufferfish, because despite it being venomous it cant do the cool puffing up thing.
+Same goes for pretending to be a pufferfish, because despite it being venomous it cant do the cool puffing up thing.
 
 The platypus's unique combination is its best selling point. Nothing else even comes close in terms of being good at its combination of traits. The intersection of its unique qualities is its superpower.
 

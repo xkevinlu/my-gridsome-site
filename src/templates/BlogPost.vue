@@ -5,6 +5,7 @@
 <div class="sharethis-inline-share-buttons"></div>
     <div class="markdown-body" v-html="$page.blogPost.content" />
 <div class="sharethis-inline-share-buttons"></div>
+<recommendedPosts></recommendedPosts>
   </layout>
 </template>
 
@@ -23,12 +24,12 @@ query Post ($id: ID!) {
 
 
 <script>
-// import VueGoodshare from "vue-goodshare";
+import recommendedPosts from "~/components/recommended-posts";
 
 export default {
-  // components: {
-  //   VueGoodshare
-  // },
+    components: {
+    recommendedPosts
+  },
   mounted() {
     let shareScript = document.createElement("script");
     shareScript.setAttribute(

@@ -14,7 +14,7 @@
         <div id="mc_embed_signup_scroll">
           <h5>Colors and Code</h5>
           <div class="mc-field-group">
-            <p>A collection of essays by a product designer on design, tech, and data.</p>
+            <p>A collection of essays by a product designer on design, data visualization, and life.</p>
             <b-form-group
               id="input-group-1"
               label="Sign up for newsletter:"

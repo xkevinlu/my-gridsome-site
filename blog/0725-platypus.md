@@ -11,7 +11,7 @@ When I graduated college looking for my first job, the conventional wisdom was t
 
 As an interviewer and mentor, now I see a plethora of cookie cutter portfolios that check all the boxes listed, each complete with case studies that demonstrate a thoughtful design thinking process, and showcasing a range of design skills and SEO buzzwords. *Check.* But what about beyond that? What about the boxes not listed?
 
-People hire individuals, not websites.
+People hire individuals, not portfolios.
 
 ## What makes you different?
 

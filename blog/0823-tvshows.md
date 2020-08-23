@@ -14,16 +14,12 @@ image: https://thoughtcatalog.com/wp-content/uploads/2013/01/tv.jpg
 </style>
 
 ## How I Met Your Mother
-<iframe class="iframe-chart" src="https:\\www.colorsandcode.com\src\assets\tvshows\widget-himym.html" scrolling="no"></iframe>
+<iframe class="iframe-chart" src="https://www.colorsandcode.com/tvshows-assets/widget-himym.html" scrolling="no"></iframe>
 
 ## Friends
-<iframe class="iframe-chart" src="https:\\www.colorsandcode.com\src\assets\tvshows\widget-friends.html"scrolling="no"></iframe>
+<iframe class="iframe-chart" src="https://www.colorsandcode.com/tvshows-assets/widget-friends.html" scrolling="no"></iframe>
 
 ## Game of Thrones
-<iframe class="iframe-chart" src="https:\\www.colorsandcode.com\src\assets\tvshows\widget-gameofthrones.html"scrolling="no"></iframe>
-
-## Chuck
-<iframe class="iframe-chart" src="https://www.colorsandcode.com/visualizing-an-epidemic-assets/chart0" scrolling="no"></iframe>
-
+<iframe class="iframe-chart" src="https://www.colorsandcode.com/tvshows-assets/gameofthrones.html" scrolling="no"></iframe>
 
 

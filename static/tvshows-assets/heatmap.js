@@ -12,7 +12,7 @@ Highcharts.chart('container', {
     marginTop: 100,
     marginBottom: 80,
     plotBorderWidth: 1,
-    height:800
+    height: maxEpisodesinSeason*40
   },
 
 

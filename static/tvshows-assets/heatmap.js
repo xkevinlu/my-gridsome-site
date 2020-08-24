@@ -12,6 +12,7 @@ Highcharts.chart('container', {
     marginTop: 50,
     marginBottom: 80,
     marginLeft:50,
+    marginRight:50,
     plotBorderWidth: 1,
     height: chartHeight
   },

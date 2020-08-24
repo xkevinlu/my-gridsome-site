@@ -20,13 +20,13 @@ image: https://thoughtcatalog.com/wp-content/uploads/2013/01/tv.jpg
     height:800px;
 }
 
-.h-600 {
-    height:600px;
+.h-650 {
+    height:650px;
 }
 </style>
 
 ## Game of Thrones
-<iframe class="iframe-chart h-600" src="https://www.colorsandcode.com/tvshows-assets/widget-gameofthrones.html" scrolling="no"></iframe>
+<iframe class="iframe-chart h-650" src="https://www.colorsandcode.com/tvshows-assets/widget-gameofthrones.html" scrolling="no"></iframe>
 
 ## How I Met Your Mother
 <iframe class="iframe-chart h-800" src="https://www.colorsandcode.com/tvshows-assets/widget-himym.html" scrolling="no"></iframe>

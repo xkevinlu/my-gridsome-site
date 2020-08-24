@@ -9,15 +9,16 @@ Highcharts.chart('container', {
 
   chart: {
     type: 'heatmap',
-    marginTop: 100,
+    marginTop: 50,
     marginBottom: 80,
+    marginLeft:50,
     plotBorderWidth: 1,
     height: chartHeight
   },
 
 
   title: {
-    text: showName + " Episode Ratings"
+    text: ""
   },
 
   xAxis: {
@@ -64,7 +65,7 @@ Highcharts.chart('container', {
 
   tooltip: {
     formatter: function () {
-      return `<b> ${episodeNames[this.point.index]} (${this.point.value}) </b><br> ${episodeDesc[this.point.index]}`
+      return `<b>S${getPointCategoryName(this.point, 'x')}E${getPointCategoryName(this.point, 'y')}: ${episodeNames[this.point.index]} (${this.point.value}) </b><br> ${episodeDesc[this.point.index]}`
       },
      style: {
         width:320,

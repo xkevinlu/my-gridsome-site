@@ -20,21 +20,25 @@ image: https://thoughtcatalog.com/wp-content/uploads/2013/01/tv.jpg
     height:800px;
 }
 
-.h-650 {
-    height:650px;
+.h-500 {
+    height:500px;
 }
 </style>
 
 ## Game of Thrones
-<iframe class="iframe-chart h-650" src="https://www.colorsandcode.com/tvshows-assets/widget-gameofthrones.html" scrolling="no"></iframe>
+![how I met your mother banner](../src/assets/tvshows/tvshows-gameofthrones-banner.png)
+<iframe class="iframe-chart h-500" src="https://www.colorsandcode.com/tvshows-assets/widget-gameofthrones.html" scrolling="no"></iframe>
 
 ## How I Met Your Mother
+![how I met your mother banner](../src/assets/tvshows/tvshows-himym-banner.png)
 <iframe class="iframe-chart h-800" src="https://www.colorsandcode.com/tvshows-assets/widget-himym.html" scrolling="no"></iframe>
 
 ## Friends
+![how I met your mother banner](../src/assets/tvshows/tvshows-friends-banner.png)
 <iframe class="iframe-chart h-800" src="https://www.colorsandcode.com/tvshows-assets/widget-friends.html" scrolling="no"></iframe>
 
 ## The Office
+![how I met your mother banner](../src/assets/tvshows/tvshows-theoffice-banner.png)
 <iframe class="iframe-chart h-800" src="https://www.colorsandcode.com/tvshows-assets/widget-theoffice.html" scrolling="no"></iframe>
 
 

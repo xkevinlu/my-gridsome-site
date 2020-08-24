@@ -2,7 +2,6 @@
   <layout class="mainLayout">
     <h2>{{$page.blogPost.title}}</h2>
     <h6>{{$page.blogPost.date}}</h6>
-<div class="sharethis-inline-share-buttons"></div>
     <div class="markdown-body" v-html="$page.blogPost.content" />
 <div class="sharethis-inline-share-buttons"></div>
 <recommendedPosts></recommendedPosts>

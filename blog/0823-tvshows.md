@@ -82,7 +82,7 @@ Worst episode:
 ---
 ![house of cards banner](../src/assets/tvshows/tvshows-houseofcards-banner.png)
 <h3 class="center">House of Cards</h3> 
-<iframe class="iframe-chart h-800" src="https://www.colorsandcode.com/tvshows-assets/widget-houseofcards.html" scrolling="no"></iframe>
+<iframe class="iframe-chart h-500" src="https://www.colorsandcode.com/tvshows-assets/widget-houseofcards.html" scrolling="no"></iframe>
 
 Best episode:
 
@@ -93,7 +93,7 @@ Worst episode:
 ---
 ![house banner](../src/assets/tvshows/tvshows-house-banner.png)
 <h3 class="center">House</h3> 
-<iframe class="iframe-chart h-800" src="https://www.colorsandcode.com/tvshows-assets/widget-houseofcards.html" scrolling="no"></iframe>
+<iframe class="iframe-chart h-800" src="https://www.colorsandcode.com/tvshows-assets/widget-house.html" scrolling="no"></iframe>
 
 Best episode:
 

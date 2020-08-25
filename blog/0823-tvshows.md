@@ -80,7 +80,7 @@ Worst episode:
 8.9 overall from 374,925 reviews on IMDb as of 08/24/20.
 
 ---
-![house of cards banner](../src/assets/tvshows/tvshows-theoffice-banner.png)
+![house of cards banner](../src/assets/tvshows/tvshows-houseofcards-banner.png)
 <h3 class="center">House of Cards</h3> 
 <iframe class="iframe-chart h-800" src="https://www.colorsandcode.com/tvshows-assets/widget-houseofcards.html" scrolling="no"></iframe>
 
@@ -91,7 +91,7 @@ Worst episode:
 8.7 overall from 455,506 reviews on IMDb as of 08/24/20.
 
 ---
-![house banner](../src/assets/tvshows/tvshows-theoffice-banner.png)
+![house banner](../src/assets/tvshows/tvshows-house-banner.png)
 <h3 class="center">House</h3> 
 <iframe class="iframe-chart h-800" src="https://www.colorsandcode.com/tvshows-assets/widget-houseofcards.html" scrolling="no"></iframe>
 

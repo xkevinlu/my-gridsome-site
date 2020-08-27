@@ -10,6 +10,8 @@ image: https://thoughtcatalog.com/wp-content/uploads/2013/01/tv.jpg
     width: 100%;
     height:300px;
     border: 0;
+    padding: 0;
+    margin: 0;
 }
 
 .h-900 {

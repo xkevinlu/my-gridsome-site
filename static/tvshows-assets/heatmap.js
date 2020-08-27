@@ -12,11 +12,13 @@ Highcharts.chart('container', {
     marginTop: 50,
     marginBottom: 80,
     marginLeft:50,
-    marginRight:50,
+    marginRight:10,
     plotBorderWidth: 1,
-    height: chartHeight
+    height: chartHeight,
   },
-
+  credits: {
+    enabled: false
+  },
 
   title: {
     text: ""
@@ -69,7 +71,7 @@ Highcharts.chart('container', {
       return `<b>S${getPointCategoryName(this.point, 'x')}E${getPointCategoryName(this.point, 'y')}: ${episodeNames[this.point.index]} (${this.point.value}) </b><br> ${episodeDesc[this.point.index]}`
       },
      style: {
-        width:320,
+        width:250,
      }
   },
 

@@ -32,6 +32,10 @@ image: https://www.colorsandcode.com/thumbnail-heatmap.png
 hr {
     border:1px solid black;
 }
+h3 {
+    margin-bottom:0;
+    padding-bottom:0;
+}
 </style>
 
 Visualizing IMDb rating data.
@@ -71,7 +75,7 @@ Worst episode:
 8.9 overall from 780,644 reviews on IMDb as of 08/24/20.
 
 ---
-![the office banner](../src/assets/tvshows/tvshows-theoffice-banner.png)
+![the office banner](../src/assets/tvshows/tvshows-theoffice-banner2.png)
 <h3 class="center">The Office</h3> 
 <iframe class="iframe-chart h-800" src="https://www.colorsandcode.com/tvshows-assets/widget-theoffice.html" scrolling="no"></iframe>
 

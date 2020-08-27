@@ -9,10 +9,10 @@ Highcharts.chart('container', {
 
   chart: {
     type: 'heatmap',
-    marginTop: 50,
+    marginTop: 41,
     marginBottom: 80,
     marginLeft:50,
-    marginRight:10,
+    marginRight:50,
     plotBorderWidth: 1,
     height: chartHeight,
   },

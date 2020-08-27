@@ -9,6 +9,7 @@ var himym_names = {S1: ['Pilot', 'Purple Giraffe', 'The Sweet Taste of Liberty',
 Highcharts.chart('line-got', {
   chart: {
     height:250,
+    zoomType: 'x',
   },
   credits: {
     enabled: false
@@ -97,6 +98,7 @@ Highcharts.chart('line-got', {
 Highcharts.chart('line-himym', {
   chart: {
     height:250,
+    zoomType: 'x',
   },
   credits: {
     enabled: false

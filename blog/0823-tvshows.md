@@ -102,4 +102,6 @@ Worst episode:
 8.7 overall from 402,999 reviews on IMDb as of 08/24/20.
 
 ---
+## Shows that got worse towards the end
+<iframe class="iframe-chart h-800" src="https://www.colorsandcode.com/tvshows-assets/widget-sparklines.html" scrolling="no"></iframe>
 

@@ -9,9 +9,9 @@ image: https://www.colorsandcode.com/thumbnail-heatmap.png
 .iframe-chart {
     width: 100%;
     height:300px;
-    border: 0;
+    border:none;
     padding: 0;
-    margin: 0;
+    margin:0;
 }
 
 .h-900 {
@@ -25,25 +25,21 @@ image: https://www.colorsandcode.com/thumbnail-heatmap.png
 .h-500 {
     height:500px;
 }
-.center {
+h3.center {
     text-align:center;
+    margin-bottom:0;
+    margin-top:-0.5em;
 }
 
 hr {
     border:1px solid black;
-}
-h3 {
-    margin-bottom:0;
-    padding-bottom:0;
 }
 </style>
 
 Visualizing IMDb rating data.
 
 ---
-
 ![game of thrones banner](../src/assets/tvshows/tvshows-gameofthrones-banner.png)
-<h3 class="center">Game of Thrones</h3> 
 <iframe class="iframe-chart h-500" src="https://www.colorsandcode.com/tvshows-assets/widget-gameofthrones.html" scrolling="no"></iframe>
 
 Best episode:
@@ -54,7 +50,6 @@ Worst episode:
 
 ---
 ![how I met your mother banner](../src/assets/tvshows/tvshows-himym-banner.png)
-<h3 class="center">How I Met Your Mother</h3> 
 <iframe class="iframe-chart h-800" src="https://www.colorsandcode.com/tvshows-assets/widget-himym.html" scrolling="no"></iframe>
 
 Best episode:
@@ -65,7 +60,6 @@ Worst episode:
 
 ---
 ![friends banner](../src/assets/tvshows/tvshows-friends-banner.png)
-<h3 class="center">Friends</h3> 
 <iframe class="iframe-chart h-800" src="https://www.colorsandcode.com/tvshows-assets/widget-friends.html" scrolling="no"></iframe>
 
 Best episode:
@@ -76,7 +70,6 @@ Worst episode:
 
 ---
 ![the office banner](../src/assets/tvshows/tvshows-theoffice-banner2.png)
-<h3 class="center">The Office</h3> 
 <iframe class="iframe-chart h-800" src="https://www.colorsandcode.com/tvshows-assets/widget-theoffice.html" scrolling="no"></iframe>
 
 Best episode:
@@ -87,7 +80,6 @@ Worst episode:
 
 ---
 ![house of cards banner](../src/assets/tvshows/tvshows-houseofcards-banner.png)
-<h3 class="center">House of Cards</h3> 
 <iframe class="iframe-chart h-500" src="https://www.colorsandcode.com/tvshows-assets/widget-houseofcards.html" scrolling="no"></iframe>
 
 Best episode:
@@ -98,7 +90,6 @@ Worst episode:
 
 ---
 ![house banner](../src/assets/tvshows/tvshows-house-banner.png)
-<h3 class="center">House</h3> 
 <iframe class="iframe-chart h-800" src="https://www.colorsandcode.com/tvshows-assets/widget-house.html" scrolling="no"></iframe>
 
 Best episode:
@@ -109,7 +100,6 @@ Worst episode:
 
 ---
 ![suits banner](../src/assets/tvshows/tvshows-suits-banner.png)
-<h3 class="center">Suits</h3> 
 <iframe class="iframe-chart h-800" src="https://www.colorsandcode.com/tvshows-assets/widget-suits.html" scrolling="no"></iframe>
 
 Best episode:

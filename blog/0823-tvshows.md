@@ -3,7 +3,7 @@ title: Episode Ratings of Popular TV Shows
 date: 2020-08-23
 author: Kevin
 excerpt: Visualization of the best and worst of popular TV shows.
-image: https://thoughtcatalog.com/wp-content/uploads/2013/01/tv.jpg
+image: https://www.colorsandcode.com/thumbnail-heatmap.png
 ---
 <style>
 .iframe-chart {

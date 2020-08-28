@@ -9,7 +9,7 @@ Highcharts.chart('container', {
 
   chart: {
     type: 'heatmap',
-    marginTop: 41,
+    marginTop: 25,
     marginBottom: 80,
     marginLeft:50,
     marginRight:50,
@@ -26,18 +26,12 @@ Highcharts.chart('container', {
 
   xAxis: {
     opposite:true,
-    categories: ['1', '2', '3', '4', '5','6', '7', '8', '9', '10'],
-    title: {
-       text: "Season"
-    },
+    categories: ['S1', 'S2', 'S3', 'S4', 'S5','S6', 'S7', 'S8', 'S9', 'S10'],
   },
 
   yAxis: {
     reversed:true,
-    categories: ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '20', '21', '22', '23', '24', '25', '26', '27', '28', '29', '30'],
-    title: {
-       text: "Episode"
-    },
+    categories: ['E1', 'E2', 'E3', 'E4', 'E5', 'E6', 'E7', 'E8', 'E9', 'E10', 'E11', 'E12', 'E13', 'E14', 'E15', 'E16', 'E17', 'E18', 'E19', 'E20', 'E21', 'E22', 'E23', 'E24', 'E25', 'E26', 'E27', 'E28', 'E29', 'E30'],
   },
 
   accessibility: {

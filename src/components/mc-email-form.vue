@@ -12,12 +12,12 @@
         novalidate
       >
         <div id="mc_embed_signup_scroll">
-          <h5>Colors and Code</h5>
+          <h5>Newsletter</h5>
           <div class="mc-field-group">
-            <p>A collection of essays by a product designer on design, data visualization, and life.</p>
+            <p>If you’d like to receive posts via email, feel free to sign up for my newsletter.</p>
             <b-form-group
               id="input-group-1"
-              label="Sign up for newsletter:"
+              label="Email:"
               label-for="input-1"
               description="New post every sometimes."
             >
@@ -25,7 +25,7 @@
                 id="mce-EMAIL"
                 type="email"
                 required
-                placeholder="Enter email"
+                placeholder="you@youremail.com"
                 value name="EMAIL"
               ></b-form-input>
             </b-form-group>
@@ -60,6 +60,7 @@
 <style scoped>
 
 .post-footer {
+  margin-top:2em;
   margin-bottom:3em;
 }
 </style>

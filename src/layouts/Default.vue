@@ -1,6 +1,6 @@
 <template>
   <div class="layout">
-    <b-container>
+    <b-container id="page-container">
       <b-navbar class="cc-navbar" toggleable="sm" variant="faded" type="light">
         <g-link to="/">
           <b-navbar-brand tag="h1" class="mb-0" id="brand">Colors and Code</b-navbar-brand>
@@ -18,10 +18,10 @@
         </b-collapse>
       </b-navbar>
       <b-row class="justify-content-lg-center">
-        <b-col lg="8">
+        <b-col md="12">
           <slot />
         </b-col>
-        <b-col lg="4">
+        <b-col md="12">
           <mcEmailForm></mcEmailForm>
         </b-col>
       </b-row>
@@ -53,6 +53,10 @@ export default {
     margin-right: 0;
   }
 }
+#page-container {
+  max-width:750px;
+}
+
 body {
   font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto,
     "Helvetica Neue", Arial, sans-serif;

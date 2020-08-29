@@ -85,7 +85,7 @@ export default {
   margin: 2em 0em;
   padding-bottom: 4em;
   line-height:1.6em;
-  font-size:1.1em;
+  /* font-size:1.1em; */
 
   border-bottom: 1px solid black;
 }
@@ -106,7 +106,7 @@ h6 {
 @media screen and (min-width: 600px) {
 .markdown-body {
   line-height:1.6em;
-  font-size:1.3em;
+  /* font-size:1.3em; */
   }
 }
 

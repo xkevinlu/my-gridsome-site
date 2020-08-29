@@ -103,7 +103,7 @@ Worst episode: *S8.E1 - Right-Hand Man* (7.3)
 <iframe class="iframe-chart h-450" src="https://www.colorsandcode.com/tvshows-assets/widget-breakingbad.html" scrolling="no"></iframe>
 
 **Breaking Bad**  
-Best episode: *S5.E14 - Ozymandias* (10.0)
+Best episode: *S5.E14 - Ozymandias* (10.0)  
 Worst episode: *S3.E10 - Fly* (7.8)  
 <sub>9.5 overall from 1,385,378 reviews on IMDb as of 08/24/20</sub>
  <br>

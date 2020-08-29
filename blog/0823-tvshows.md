@@ -2,7 +2,7 @@
 title: The Best and Worst of Popular TV Shows
 date: 2020-08-23
 author: Kevin
-excerpt: Visualization of the best and worst of popular TV shows.
+excerpt: Visualization of episode ratings with descriptions. Which episodes should you rewatch?
 image: https://www.colorsandcode.com/thumbnail-heatmap.png
 ---
 <style>

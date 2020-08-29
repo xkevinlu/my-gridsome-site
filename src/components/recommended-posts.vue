@@ -4,7 +4,8 @@
       <b-card
         no-body
         style="min-width: 15rem; margin:0.5em;"
-        v-for="post in $static.blogPosts.edges"
+        v-for="(post, idx) in $static.blogPosts.edges"
+        v-if="idx < 4"
         :key="post.id"
         tag="article"
       >
@@ -47,3 +48,13 @@ query blogPosts {
 }
 
 </style>
+
+<script>
+export default {
+  data () {
+    return {
+			message: "hello"
+    }
+  },
+}
+</script>

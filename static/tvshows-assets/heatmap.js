@@ -43,7 +43,7 @@ Highcharts.chart('container', {
           xName = getPointCategoryName(point, 'x'),
           yName = getPointCategoryName(point, 'y'),
           val = point.value;
-        return ix + '. ' + xName + ' sales ' + yName + ', ' + val + '.';
+        return ix + '. ' + xName + ' rating ' + yName + ', ' + val;
       }
     }
   },
@@ -64,7 +64,7 @@ Highcharts.chart('container', {
 
   tooltip: {
     formatter: function () {
-      return `<b>S${getPointCategoryName(this.point, 'x')}E${getPointCategoryName(this.point, 'y')}: ${episodeNames[this.point.index]} (${this.point.value}) </b><br> ${episodeDesc[this.point.index]}`
+      return `<b>${getPointCategoryName(this.point, 'x')}.${getPointCategoryName(this.point, 'y')}: ${episodeNames[this.point.index]} (${this.point.value}) </b><br> ${episodeDesc[this.point.index]}`
       },
      style: {
         width:250,

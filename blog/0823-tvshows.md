@@ -109,4 +109,5 @@ Worst episode: *S3.E10 - Fly* (7.8)
  <br>
  <br>
  <br>
-[Part 2: Comparing trends in ratings between shows](/blog/2020/08/27/comparing-popular-tv-show-trends)
+ Part 2 coming soon
+<!-- [Part 2: Comparing trends in ratings between shows](/blog/2020/08/27/comparing-popular-tv-show-trends) -->

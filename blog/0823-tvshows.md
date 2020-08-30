@@ -127,7 +127,7 @@ Worst episode: *S3.E10 - Fly* (7.8)
 
 **Avatar**  
 Best episode: *S3.E20 - Sozin's Comet, Part 3: Into the Inferno* (9.8)  
-Worst episode: *S1.E11 - The Great Divide * (7.0)
+Worst episode: *S1.E11 - The Great Divide * (7.0)  
 <sub>9.2 overall from 230,740 reviews on IMDb as of 08/30/20</sub>
  <br>
  <br>

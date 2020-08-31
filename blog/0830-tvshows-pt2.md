@@ -1,6 +1,6 @@
 ---
 title: Comparing Popular TV Show Trends
-date: 2020-08-27
+date: 2020-08-30
 author: Kevin
 excerpt: Visualization of the best and worst of popular TV shows.
 image: https://www.colorsandcode.com/thumbnail-charts.png
@@ -34,6 +34,8 @@ hr {
 }
 </style>
 ---
-## Shows that got worse towards the end
+## Trends of show quality over time
+
 <iframe class="iframe-chart h-800" src="https://www.colorsandcode.com/tvshows-assets/widget-sparklines.html" scrolling="no"></iframe>
 
+All data taken from IMDb.

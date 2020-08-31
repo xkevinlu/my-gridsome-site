@@ -1,8 +1,8 @@
 ---
-title: The Best and Worst of Popular TV Shows
+title: The best and worst of popular TV shows
 date: 2020-08-23
 author: Kevin
-excerpt: Visualization of episode ratings with descriptions. Which episodes should you rewatch?
+excerpt: Heatmaps of episode ratings with descriptions, according to IMDb.
 image: https://www.colorsandcode.com/thumbnail-heatmap.png
 ---
 <style>
@@ -141,4 +141,4 @@ Worst episode: *S1.E11 - The Great Divide * (7.0)
  <br>
  <br>
  <br>
-[Part 2: Comparing trends in ratings](/blog/2020/08/27/comparing-popular-tv-show-trends)
+[Part 2: Comparing trends in ratings](/blog/2020/08/30/comparing-popular-tv-show-trends)

@@ -77,6 +77,15 @@ Worst episode: *S4.E21 -The One with the Invitation* (7.2)
 <sub>8.9 overall from 780,644 reviews on IMDb as of 08/24/20.</sub>
 
 ---
+![seinfeld banner](../src/assets/tvshows/tvshows-seinfeld-banner.png)
+<iframe class="iframe-chart h-660" src="https://www.colorsandcode.com/tvshows-assets/widget-seinfeld.html" scrolling="no"></iframe>
+
+**Seinfeld**  
+Best episode: *S4.E11 - The Contest* (9.6)  
+Worst episode: *S6.E14 -Highlights of a Hundred* (7.4)  
+<sub>8.8 overall from 246,360 reviews on IMDb as of 08/24/20.</sub>
+
+---
 ![the office banner](../src/assets/tvshows/tvshows-theoffice-banner2.png)
 <iframe class="iframe-chart h-760" src="https://www.colorsandcode.com/tvshows-assets/widget-theoffice.html" scrolling="no"></iframe>
 
